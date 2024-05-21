@@ -1,0 +1,56 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Pavlova",
+      "image": "https://i.pinimg.com/236x/ad/d1/37/add13773c67e634e9088e6830a259707.jpg",
+      "description": "A cake with a crispy crust and soft, light inside",
+      "price": 20.95,
+      "ingredients": "Egg, Sugar, Cream, vanilla, Fruit",
+      "popular": false,
+      "promotion": false,
+      "proprice": 0,
+      "type": "Dessert",
+      "quantity": 1
+    },
+    {
+      "id": "2",
+      "image": "https://i.pinimg.com/236x/c8/26/80/c8268014e2b1ed2bd4323847c6090939.jpg",
+      "title": "Cheese Pizza",
+      "price": 32,
+      "description": "Pizza, dish of Italian origin consisting of a flattened disk of bread dough.",
+      "ingredients": "flour,olive oil,sugar,salt,Parmesan cheese,mozzarella cheese",
+      "popular": true,
+      "promotion": false,
+      "proprice": 0,
+      "type": "Pizza",
+      "quantity": 1
+    },
+    {
+      "id": "3",
+      "image": "https://i.pinimg.com/236x/1b/f9/f9/1bf9f909ecceb79c29284794c2d74217.jpg",
+      "title": "Burger",
+      "price": 32,
+      "description": "a dish consisting of fillings—usually a patty of ground meat, typically beef—placed inside a sliced bun or bread roll.",
+      "ingredients": "cheese, lettuce, tomato, onion, pickles, bacon or chilis with condiments.",
+      "popular": false,
+      "promotion": true,
+      "proprice": 20,
+      "type": "Burger",
+      "quantity":1
+    },{
+      "id": "4",
+      "image": "https://i.pinimg.com/236x/a7/bf/68/a7bf68a8976eb5a1f4294945de840850.jpg",
+      "title": "Orange juice",
+      "price": 15,
+      "description": "Orange juice is made from freshly squeezed oranges.",
+      "ingredients": "water, natural sugars.",
+      "popular": false,
+      "promotion": false,
+      "proprice": 10,
+      "type": "Drinks",
+      "quantity":1
+    }
+  ],
+  "cart": []
+}
