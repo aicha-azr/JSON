@@ -7,7 +7,7 @@
       "description": "A cake with a crispy crust and soft, light inside",
       "price": 20.95,
       "ingredients": "Egg, Sugar, Cream, vanilla, Fruit",
-      "popular": false,
+      "popular": true,
       "promotion": false,
       "proprice": 0,
       "type": "Dessert",
@@ -46,7 +46,7 @@
       "description": "Orange juice is made from freshly squeezed oranges.",
       "ingredients": "water, natural sugars.",
       "popular": false,
-      "promotion": false,
+      "promotion": true,
       "proprice": 10,
       "type": "Drinks",
       "quantity":1
